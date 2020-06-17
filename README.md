@@ -1,6 +1,6 @@
-# productivetimeflutter
+# Productive Time
 
-A new Flutter application.
+My first Flutter project.
 
 ## Getting Started
 
