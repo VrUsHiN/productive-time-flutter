@@ -16,8 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Sample Screenshots
+## Screenshots
 
-![Image 1](https://github.com/VrUsHiN/productive-time-flutter/blob/master/Screenshot_2020-06-17-19-40-43-730_com.example.productivetimeflutter.jpg)
+I have uploaded some of my app UI screenshots alponog with the project files.
 
-[!Image 2](https://github.com/VrUsHiN/productive-time-flutter/blob/master/Screenshot_2020-06-17-19-40-50-017_com.example.productivetimeflutter.jpg)
+## Contributions
+
+All feedbacks and suggestions are welcome! :)
